@@ -1,0 +1,49 @@
+
+body {
+    width: 100%;
+    height: 100vh;
+    background-color: lightgray;
+  }
+  
+  
+  #form {
+  max-width: 1000px;
+  background-color: #fff;
+  margin: 160px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  }
+  input {
+    padding: 9px;
+  border-radius: 0px;
+  }
+  input:hover {
+       background-color: green;
+       color: white;
+  }
+  
+  
+  
+  
+  .btn {
+  background-color: purple;
+  width: 166px;
+  height: 33px;
+  }
+  #form {
+   text-align:center ;
+  }
+  .font {
+    font-size: 18px;
+    margin: 12px;
+    align-items: center;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.1);
+    
+  }
+   
+  
+  
+  
+  
